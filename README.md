@@ -52,11 +52,8 @@ This repository is part of a class activity aimed at practicing GitHub repositor
   git push origin <branch-name>
   ```
 
-## Making Repository Public
-
-Guide on GitHub to change repository settings to public.
-
-## Practice Commands
+## For Reference
+To see all the screen shots of all the steps, refer to the pdf in the main branch.
 
 List of commands practiced in the last session with brief descriptions.
 
