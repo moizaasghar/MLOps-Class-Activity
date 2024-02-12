@@ -15,7 +15,7 @@ This repository is part of a class activity aimed at practicing GitHub repositor
 
 - **Clone Repository**: 
   ```bash
-  git clone https://github.com/moizaasghar/MLOps-Class-Activity.git
+  git clone https://github.com/moizaasghar/MLOps-Class-Task-1-i202425-i201796.git
   ```
 
 ## Branch Management
