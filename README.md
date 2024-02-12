@@ -1,5 +1,5 @@
 # MLOps Class Activity
-Moiz Asghar - 20I-1796
+Moiz Asghar - 20I-1796 | 
 Sania Arshad - 20I-2425
 
 ## Introduction
